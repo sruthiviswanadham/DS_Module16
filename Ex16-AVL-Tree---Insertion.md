@@ -18,7 +18,7 @@ To write a C function to insert the elements in an AVL Tree.
 
 Program to insert the elements in an AVL Tree.
 
-Developed by: P JESHWANTH KUMAR
+Developed by: V Sai Sruthi
 RegisterNumber:  212223100069
 
 node * insert(node *T,int x) 
